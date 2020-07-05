@@ -1,0 +1,7 @@
+# Project exclude paths
+/netty-first/target/
+/netty-login/target/
+/netty-pipeline/target/
+/netty-sendandreceive-messages/target/
+/netty-singlechat/target/
+/netty-twoway-communication/target/
